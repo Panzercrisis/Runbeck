@@ -1,5 +1,4 @@
-This is the source code for the Runbeck coding exercise.  Each of the top-level directories just inside the Runbeck
-folder is for a separate project within the solution.
+This repo contains the source code for the Runbeck coding exercise.  The Visual Studio solution files and folders can be found inside the RunbeckExercise directory.  The necessary dlls and executable to run the program can be found by themselves inside the "Output Files" directory.  This solution can be built using Visual Studio Community Edition 2019, with the default components within the ".NET desktop development" workload installed.
 
 The projects are divided into the following layers:
 
