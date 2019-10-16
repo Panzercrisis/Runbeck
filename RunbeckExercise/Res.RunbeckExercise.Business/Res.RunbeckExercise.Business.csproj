@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Res.RunbeckExercise.Business.Surface\Res.RunbeckExercise.Business.Surface.csproj" />
+    <ProjectReference Include="..\Res.RunbeckExercise.DataAccess.Surface\Res.RunbeckExercise.DataAccess.Surface.csproj" />
+    <ProjectReference Include="..\Res.RunbeckExercise.DataAccess\Res.RunbeckExercise.DataAccess.csproj" />
+    <ProjectReference Include="..\Res.RunbeckExercise.Surface\Res.RunbeckExercise.Surface.csproj" />
+  </ItemGroup>
+
+</Project>
